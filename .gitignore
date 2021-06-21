@@ -1,2 +1,10 @@
 # Ignore the config.js file.
 config.js
+*/config.js
+
+Simple-Map/
+Mapping_Single_Points/
+Mapping_Multiple_Points/
+Mapping_Lines/
+Mapping_GeoJSON_Points/
+Earthquakes_past7days/
