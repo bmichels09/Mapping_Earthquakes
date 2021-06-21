@@ -6,7 +6,7 @@ let map = L.map("mapid", {
     center: [
       40.7, -94.5
     ],
-    zoom: 4
+    zoom: 14
   });
 
 // We create the tile layer that will be the background of our map.
